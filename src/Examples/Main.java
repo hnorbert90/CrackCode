@@ -13,8 +13,10 @@ public class Main {
         System.out.println("1.1;");
         System.out.println("tesTword has duplicated characters? : "+containsDublicatedChar("tesTword"));
         System.out.println("testword has duplicated characters? : "+containsDublicatedChar("testword"));
-        //1.2
+        //1.2 Write code to reverse a C-Style String. 
+        //(C-String means that “abcd” is represented as five characters, including the null character.)
         System.out.println("1.2;");
+        System.out.println("Reverse word reversed:"+reverseWord.reverseString("Reverse"));
         
     }
     
